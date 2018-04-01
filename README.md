@@ -1,1 +1,3 @@
-# ITU-SYST-F2018-Exercises_8
+# ITU-SYST-F2018
+
+Øvelsesløsning for Browser internals, npm & Webpack
